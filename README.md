@@ -34,7 +34,7 @@ The act of calling off or terminating a planned event, service, or reservation.
 
 The project involves analyzing data collected from the Ola platform to answer key business and operational questions. The analysis helps identify patterns, track customer preferences, evaluate driver performance, and assess booking details. Key metrics analyzed include ride distance, cancellation rates, customer ratings, and payment methods.
 
-### Key Questions Analyzed:
+### Key Questions Analyzed using SQL :
 1. **Retrieve all successful bookings.**
 2. **Find the average ride distance for each vehicle type.**
 3. **Get the total number of canceled rides by customers.**
