@@ -1,12 +1,35 @@
 # Ola_Analysis_SQL-PBi
 
-
-## SQL---
+## SQL
 ---
 
 # Ola Data Analysis Using SQL
 
 This project is focused on performing a comprehensive analysis of Ola ride-sharing data using SQL queries. The primary goal is to gain insights into various factors such as booking success rates, customer behavior, driver performance, payment methods, and booking details.
+
+## Descriptions with Screenshots
+
+**Overview**  
+A concise summary or general description of a subject or topic.  
+![Overview](path-to-your-image/overview-screenshot.png)
+
+**Rating**  
+An evaluation or score given to something based on its quality or performance.  
+![Rating](path-to-your-image/rating-screenshot.png)
+
+**Revenue**  
+The total income generated from business activities, typically through sales or services.  
+![Revenue](path-to-your-image/revenue-screenshot.png)
+
+**Vehicle Type**  
+Classification of vehicles based on their design, use, or features (e.g., sedan, electric car).  
+![Vehicle Type](path-to-your-image/vehicle-type-screenshot.png)
+
+**Cancellation**  
+The act of calling off or terminating a planned event, service, or reservation.  
+![Cancellation](path-to-your-image/cancellation-screenshot.png)
+
+---
 
 ## Project Overview
 
@@ -71,7 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Dataset: Ola's data from internal sources (or any external data provider if applicable).
 - Thanks to all contributors and those who provided guidance on SQL optimizations.
-
----
-
-
