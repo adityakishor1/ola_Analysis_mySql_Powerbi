@@ -11,23 +11,23 @@ This project is focused on performing a comprehensive analysis of Ola ride-shari
 
 **Overview**  
 A concise summary or general description of a subject or topic.  
-![Overview](path-to-your-image/overview-screenshot.png)
+![Overview](https://github.com/adityakishor1/ola_Analysis_mySql_Powerbi/blob/ec4c4286ea9a314bdb5e9c35a529ab1875493a14/Img%20Vid/Overview.png)
 
 **Rating**  
 An evaluation or score given to something based on its quality or performance.  
-![Rating](path-to-your-image/rating-screenshot.png)
+![Rating](https://github.com/adityakishor1/ola_Analysis_mySql_Powerbi/blob/ec4c4286ea9a314bdb5e9c35a529ab1875493a14/Img%20Vid/Rating.png)
 
 **Revenue**  
 The total income generated from business activities, typically through sales or services.  
-![Revenue](path-to-your-image/revenue-screenshot.png)
+![Revenue](https://github.com/adityakishor1/ola_Analysis_mySql_Powerbi/blob/ec4c4286ea9a314bdb5e9c35a529ab1875493a14/Img%20Vid/Revenue.png)
 
 **Vehicle Type**  
 Classification of vehicles based on their design, use, or features (e.g., sedan, electric car).  
-![Vehicle Type](path-to-your-image/vehicle-type-screenshot.png)
+![Vehicle Type](https://github.com/adityakishor1/ola_Analysis_mySql_Powerbi/blob/ec4c4286ea9a314bdb5e9c35a529ab1875493a14/Img%20Vid/Vehicle%20type.png)
 
 **Cancellation**  
 The act of calling off or terminating a planned event, service, or reservation.  
-![Cancellation](path-to-your-image/cancellation-screenshot.png)
+![Cancellation](https://github.com/adityakishor1/ola_Analysis_mySql_Powerbi/blob/ec4c4286ea9a314bdb5e9c35a529ab1875493a14/Img%20Vid/Cancellation.png)
 
 ---
 
