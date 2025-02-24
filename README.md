@@ -1,6 +1,5 @@
 # Ola_Analysis_SQL-PBi
 
-## SQL
 ---
 
 # Ola Data Analysis Using SQL
