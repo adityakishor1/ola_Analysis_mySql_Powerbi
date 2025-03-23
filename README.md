@@ -51,7 +51,7 @@ The project involves analyzing data collected from the Ola platform to answer ke
 9. **Calculate the total booking value of successfully completed rides.**
 10. **List all incomplete rides along with the reasons.**
 
-[Sql ANalysis Link](https://github.com/adityakishor1/ola_Analysis_mySql_Powerbi/blob/main/Ola%20Sql%20Analysis.sql)
+[Sql Analysis Link](https://github.com/adityakishor1/ola_Analysis_mySql_Powerbi/blob/main/Ola%20Sql%20Analysis.sql)
 
 
 ## Project Structure
