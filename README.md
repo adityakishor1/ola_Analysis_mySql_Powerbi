@@ -4,7 +4,7 @@
 
 # Ola Data Analysis Using SQL
 
-This project is focused on performing a comprehensive analysis of Ola ride-sharing data using SQL queries. The primary goal is to gain insights into various factors such as booking success rates, customer behavior, driver performance, payment methods, and booking detail.
+This project is focused on performing a comprehensive analysis of Ola ride-sharing data using SQL queries. The primary goal is to gain insights into various factors such as booking success rates, customer behavior, driver performance, payment methods, and booking details.
 
 ## Descriptions with Screenshots
 
